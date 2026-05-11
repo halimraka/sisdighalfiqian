@@ -1,0 +1,2 @@
+# sisdihdjawa
+Tugas TinkerCAD
