@@ -1,7 +1,7 @@
 # sisdihdjawa
 Tugas TinkerCAD
 
-7 Penjelasan Gerbang Logic Gate
+Penjelasan 7 Gerbang Logic Gate
 1. AND
 Pada gerbang AND output akan bernilai 1 jika inputnya bernilai 1 semua. Jika salah satu 
 bernilai 0 atau semuanya bernilai 0, maka outputnya akan 0.
