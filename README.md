@@ -5,7 +5,7 @@ Tugas TinkerCAD
 1. AND
 Pada gerbang AND output akan bernilai 1 jika inputnya bernilai 1 semua. Jika salah satu 
 bernilai 0 atau semuanya bernilai 0, maka outputnya akan 0.
-![image alt] (https://github.com/halimraka/sisdihdjawa/blob/f5adc3226b5b8217fab299a4406aded4cfa12002/AND.png)
+![image alt](https://github.com/halimraka/sisdihdjawa/blob/f5adc3226b5b8217fab299a4406aded4cfa12002/AND.png)
 2. NAND
 Pada gerbang NAND ini merupakan gabungan antara gerbang AND dan NOT serta 
 kebalikan dari gerbang AND. Output akan bernilai 0 jika inputnya bernilai 1 semuanya.
