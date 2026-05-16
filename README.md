@@ -31,3 +31,6 @@ maka outputnya akan bernilai 0.
 Pada gerbang NOT merupakan gerbang inverter, di mana gerbang ini memiliki logika yang 
 membalikan keadaan pada input, jika input bernilai 1 maka output akan bernilai 0, 
 begitupun sebaliknya. Gerbang ini hanya memiliki satu input dan satu output. 
+
+Berikut untuk link TinkerCAD nya:
+https://www.tinkercad.com/things/lfe1kUrgWSJ/editel?returnTo=%2Fdashboard&sharecode=npiIaHA1OzTNkbq0wJehJ_hAba_DCi7-VIzh-LMNHhU
