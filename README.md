@@ -59,4 +59,4 @@ begitupun sebaliknya. Gerbang ini hanya memiliki satu input dan satu output.
 Berikut untuk link TinkerCAD nya:
 https://www.tinkercad.com/things/lfe1kUrgWSJ/editel?returnTo=%2Fdashboard&sharecode=npiIaHA1OzTNkbq0wJehJ_hAba_DCi7-VIzh-LMNHhU
 
-![image alt](https://github.com/halimraka/sisdihdjawa/blob/f8c7f4e22dd578dec609f71e9846215ef9758198/Full%20Rangkaian.png)
+![image alt](https://github.com/halimraka/sisdighalfiqian/blob/28e85fa279901a837c3092e47459f2098cd6b2d6/Full%20Rangkaian.png)
