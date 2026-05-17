@@ -5,7 +5,7 @@
 </br>
 
 Anggota :
-  - Aiman Fiqi Naja (H1H025052)
+  - Aiman Fiqi Naja (H1H025027)
   - Halim Raka Adji Perdana (H1H025052)
   - Rian Nur Hidayat (H1H025020)
     <br>
