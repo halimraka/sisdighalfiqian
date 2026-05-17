@@ -1,9 +1,10 @@
-# PRAKTIKUM SISTEM DIGITAL 8
+# PRAKTIKUM SISTEM DIGITAL PERTEMUAN 8
 
 <div align="center"> TUGAS PRAKTIKUM KELOMPOK : TinkerCAD </div>
 <br>
 </br>
 
+Kelompok 5
 Anggota :
   - Aiman Fiqi Naja (H1H025027)
   - Halim Raka Adji Perdana (H1H025052)
