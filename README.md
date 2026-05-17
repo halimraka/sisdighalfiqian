@@ -22,7 +22,7 @@ bernilai 0 atau semuanya bernilai 0, maka outputnya akan 0.
 Gerbang NAND merupakan gabungan antara gerbang AND dan NOT serta 
 kebalikan dari gerbang AND. Pada gerbang NAND output akan bernilai 0 jika inputnya bernilai 1 semuanya.
 
-![image alt](https://github.com/halimraka/sisdihdjawa/blob/0150b0ac29373fd1e4478de652c47e5405487d95/NAND.png)
+![image alt](https://github.com/halimraka/sisdighalfiqian/blob/84d775c135c1f4b3e1a953e4f204be34fdc346b0/NAND.png)
 
 3. OR
 Pada gerbang OR, output akan bernilai 1 jika inputnya bernilai 1 semua, atau terdapat salah 
@@ -34,20 +34,20 @@ satu yang bernilai 1. Jika inputnya bernilai 0 semua, maka outputnya akan bernil
 Gerbang NOR ini merupakan gabungan antara gerbang OR dan NOT serta kebalikan 
 dari gerbang OR. Pada gerbang NOR output akan bernilai 1 jika inputnya bernilai 0 semua.
 
-![image alt](https://github.com/halimraka/sisdihdjawa/blob/0150b0ac29373fd1e4478de652c47e5405487d95/NOR.png)
+![image alt](https://github.com/halimraka/sisdighalfiqian/blob/84d775c135c1f4b3e1a953e4f204be34fdc346b0/NOR.png)
 
 5. EX-OR
 Pada gerbang EX-OR, output akan bernilai 1 jika inputnya berbeda. Jika inputnya sama, 
 baik bernilai 1 semua atau 0 semua, maka outputnya akan bernilai 0.
 
-![image alt](https://github.com/halimraka/sisdihdjawa/blob/0150b0ac29373fd1e4478de652c47e5405487d95/XOR.png)
+![image alt](https://github.com/halimraka/sisdighalfiqian/blob/84d775c135c1f4b3e1a953e4f204be34fdc346b0/XOR.png)
 
 6. EX-NOR
 Gerbang EX-NOR merupakan kebalikan dari gerbang EX-OR. Pada gerbang EX-NOR output akan bernilai 
 1 jika inputnya sama, baik bernilai 1 semua atau 0 semua. Jika terdapat input yang berbeda 
 maka outputnya akan bernilai 0.
 
-![image alt](https://github.com/halimraka/sisdihdjawa/blob/0150b0ac29373fd1e4478de652c47e5405487d95/XNOR.png)
+![image alt](https://github.com/halimraka/sisdighalfiqian/blob/84d775c135c1f4b3e1a953e4f204be34fdc346b0/XNOR.png)
 
 7. NOT
 Gerbang NOT merupakan gerbang inverter, di mana gerbang ini memiliki logika yang 
